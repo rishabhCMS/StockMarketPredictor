@@ -1,5 +1,7 @@
 # StockMarketPredictor
 
+![](https://github.com/rishabhCMS/StockMarketPredictor/blob/main/gifs/main.gif)
+
 
 Build a Stock Price Indicator
 
